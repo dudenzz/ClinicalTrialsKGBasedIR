@@ -1,1 +1,3 @@
-Download links for the database and the knowledge graph will appear here very soon.
+Download links for the Knowledge Graph and Clinical Trials:
+
+   [Knowledge Graph](https://drive.google.com/file/d/1zTKvRj9d2kNsD_qCrHniHRu6FTCC_HhA/view?usp=sharing)
